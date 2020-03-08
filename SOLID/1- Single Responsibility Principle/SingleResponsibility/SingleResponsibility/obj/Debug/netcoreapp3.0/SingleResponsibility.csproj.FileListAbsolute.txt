@@ -1,0 +1,11 @@
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.exe
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.deps.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.runtimeconfig.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.runtimeconfig.dev.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\bin\Debug\netcoreapp3.0\SingleResponsibility.pdb
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.0\SingleResponsibility.csprojAssemblyReference.cache
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.0\SingleResponsibility.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Single Responsibility Principle\SingleResponsibility\SingleResponsibility\obj\Debug\netcoreapp3.0\SingleResponsibility.pdb

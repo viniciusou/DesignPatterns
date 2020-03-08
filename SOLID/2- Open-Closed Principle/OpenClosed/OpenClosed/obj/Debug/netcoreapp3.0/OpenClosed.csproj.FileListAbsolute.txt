@@ -1,0 +1,11 @@
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.exe
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.deps.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.runtimeconfig.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.runtimeconfig.dev.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\bin\Debug\netcoreapp3.0\OpenClosed.pdb
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.0\OpenClosed.csprojAssemblyReference.cache
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.0\OpenClosed.AssemblyInfoInputs.cache
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.0\OpenClosed.AssemblyInfo.cs
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.0\OpenClosed.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Open-Closed Principle\OpenClosed\OpenClosed\obj\Debug\netcoreapp3.0\OpenClosed.pdb

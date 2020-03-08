@@ -1,0 +1,10 @@
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.exe
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.deps.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.runtimeconfig.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.runtimeconfig.dev.json
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\bin\Debug\netcoreapp3.0\LiskovSubstitution.pdb
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.0\LiskovSubstitution.AssemblyInfoInputs.cache
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.0\LiskovSubstitution.AssemblyInfo.cs
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.0\LiskovSubstitution.dll
+C:\Users\vinic\Projetos\DesignPatterns\SOLID\Liskov Substitution Principle\LiskovSubstitution\LiskovSubstitution\obj\Debug\netcoreapp3.0\LiskovSubstitution.pdb
