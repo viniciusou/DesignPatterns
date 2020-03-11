@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CompositePattern
+namespace Composite
 {
     /// <summary>
     /// The composite pattern is a partitioning design pattern. It describes a group of 

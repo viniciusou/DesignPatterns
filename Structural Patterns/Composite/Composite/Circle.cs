@@ -1,4 +1,4 @@
-﻿namespace CompositePattern
+﻿namespace Composite
 {
     public class Circle : GraphicObject
     {
