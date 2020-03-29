@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Operating System `Linux`, `Windows` or `macOS`. Make sure you have [Visual Studio] or [VSCode] and [.NET Core](https://dotnet.microsoft.com/download) installed globally on your machine.
+Operating System `Linux`, `Windows` or `macOS`. Make sure you have [Visual Studio](https://visualstudio.microsoft.com) or [Visual Studio Code](https://code.visualstudio.com) and [.NET Core](https://dotnet.microsoft.com/download) installed globally on your machine.
 
 
 ### Installing
